@@ -303,7 +303,7 @@ http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.t
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub [Guna VPN]
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1, tvg-id="701" tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN [Indonesia]
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN HD 1080p [PT Sub]
 http://rv.imax.re:80/FhIw3X8Fym/O3iBiTdNRQ/81815
 #EXTINF:-1, tvg-id="702"group-title="FAMILY" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello HD CH702
