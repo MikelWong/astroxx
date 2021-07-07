@@ -171,7 +171,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 http://zalogitv.tech:8080/mastro-top/2323/299|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1, tvg-id="401"group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
+#EXTINF:-1, tvg-id="401" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="404"group-title="ASTRO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO CH404
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -302,6 +302,8 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub [Guna VPN]
 http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1, tvg-id="701" tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN [Indonesia]
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN HD 1080p [PT Sub]
 http://rv.imax.re:80/FhIw3X8Fym/O3iBiTdNRQ/81815
 #EXTINF:-1, tvg-id="702"group-title="FAMILY" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello HD CH702
@@ -322,8 +324,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 #EXTINF:-1, tvg-id="710" group-title="LEARNING" tvg-logo="https://telegra.ph/file/c057183f87e34834ba821.png",Nat Geo People CH710
 http://bit.ly/natgeopeople
-#EXTINF:-1, tvg-id="712"group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
+#EXTINF:-1, tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+#EXTINF:-1  tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", WarnerTV 712
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1, tvg-id="713" group-title="MOVIES" tvg-logo="https://telegra.ph/file/dd3aeb1d6bc7b25edbafb.png",FX Cinema HD CH713
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
 #EXTINF:-1, tvg-id="714" group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/d3767800abecfd41f4781.png",Crime & Investigation CH714
@@ -465,6 +469,8 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",Rajawali TV
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",
