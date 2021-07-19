@@ -361,6 +361,8 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1, tvg-id="815"group-title="SPORTS" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",FOX Sports HD CH815
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#EXTINF:-, tvg-id="815"group-title="SPORTS" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",Fox Sport 1 HD Backup
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="816"group-title="SPORTS" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",FOX Sports 2 HD CH816
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 #EXTINF:-1, tvg-id="817"group-title="SPORTS" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD CH817
