@@ -344,6 +344,8 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6778
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
 #EXTINF:-1, group-title="FAMILY" tvg-logo="https://logos.fandom.com/wiki/M2o_TV?file=Radio_m2o_-_Logo_2019.svg.png",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1, group-title="FAMILY" , tvg-logo="https://logos.fandom.com/wiki/Channel_V?file=Channel_V_Logo.svg",CHANNEL [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, tvg-id="719" group-title="ANIME" tvg-logo="https://telegra.ph/file/dcef753db1be1cb9e5ce4.png",Animax CH719
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
 #EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus Indo Sub [Guna VPN]
