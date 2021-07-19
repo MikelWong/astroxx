@@ -212,7 +212,7 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1, tvg-id="416"group-title="MOVIES" tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png",TVN Movies CH416
 http://zalogitv.tech:8080/live/mastro-top/2323/1401.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/5dd63870664573268f47a.jpg",Thrill Indo Sub [Guna VPN] CH417
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?pijanify.m3u8
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1, tvg-id="501" group-title="ASTRO" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani CH501
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1, tvg-id="502" group-title="ASTRO" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",BERNAMA CH502
