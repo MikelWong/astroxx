@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,ASTRO Ria HD
+#EXTINF:-1, tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO 1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",Astro Ria HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6730
-#EXTINF:-1,ASTRO Prima HD
+#EXTINF:-1, tvg-id="105" tvg-name="ASTRO PRIMA" group-title="ASTRO 1" tvg-logo="https://logos.fandom.com/wiki/Astro_Prima?file=Astro_Prima_2019.png",ASTRO Prima HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6727
-#EXTINF:-1,ASTRO Warna HD
+#EXTINF:-1, tvg-id="107" tvg-name="ASTRO WARNA HD" group-title="ASTRO 1" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=107.png", ASTRO Warna HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6740
 #EXTINF:-1,Astro Citra HD (subtitle)
 http://iptv.tvmalaysia.cc:80/737373/737373/7267
