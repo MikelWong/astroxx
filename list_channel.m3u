@@ -212,7 +212,6 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1, tvg-id="416"group-title="MOVIES" tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png",TVN Movies CH416
 http://zalogitv.tech:8080/live/mastro-top/2323/1401.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/5dd63870664573268f47a.jpg",Thrill Indo Sub [Guna VPN] CH417
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1, tvg-id="501" group-title="ASTRO" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani CH501
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -453,11 +452,13 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",NET TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",MNCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",TRANSTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="TRANS7HD.id" tvg-name="TRANS 7 HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" group-title="Indonesia",TRANS 7 HD (720p)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",GTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",Kompas TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",Metro TV
