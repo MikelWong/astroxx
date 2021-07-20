@@ -205,7 +205,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="415"group-title="MOVIES" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png",FOX Action Movies CH415
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,  group-title="MOVIES" tvg-logo="https://i.ibb.co/SBmM0M0/mycinemalogo.png", MY CINEMA
+#EXTINF:-1,  group-title="MOVIES" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png", MY CINEMA
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/e472a76d6960f90476588.png",FOX Crime (Asia)
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
@@ -320,7 +320,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
 #EXTINF:-1, tvg-id="707" group-title="SERIES" tvg-logo="https://telegra.ph/file/3f68d22d89d17cc673e96.png",TLC HD CH707
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6832
-#EXTINF:-1, tvg-id="707"group-title="SERIES" tvg-logo="https://telegra.ph/file/3f68d22d89d17cc673e96.png" ,TLC 
+#EXTINF:-1, tvg-id="707" group-title="SERIES" tvg-logo="https://telegra.ph/file/3f68d22d89d17cc673e96.png" ,TLC 
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, tvg-id="708" group-title="FAMILY" tvg-logo="https://telegra.ph/file/cda6dd5844f5d6e664292.png",Food Network HD CH708
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
