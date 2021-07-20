@@ -24,7 +24,7 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b406400
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg",Sukan RTM
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg",Sukan RTM [Auto]
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg",Sukan RTM [720p]
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg",Sukan RTM [1080p]
@@ -238,14 +238,14 @@ http://210.210.155.35/uq2663/h/h03/index1.m3u8
 #EXTINF:-1, tvg-id="550" group-title="LEARNING" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png",Nat Geo Wild CH550
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1, tvg-id="551" group-title="LEARNING" tvg-logo="https://telegra.ph/file/43286c3eb21cb8c780758.png",Nat Geo CH551
-http://bit.ly/natgeo551
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png",Discovery Life
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png",Discovery Investigation
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
 
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png",Discovery Channel 552
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/98a3e3651b464b0927eec.png",Discovery Asia [Viet] CH553
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png",Discovery Science HD CH554
