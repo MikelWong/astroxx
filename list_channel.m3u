@@ -329,7 +329,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
 #EXTINF:-1, tvg-id="709" group-title="FAMILY" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD CH709
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 #EXTINF:-1, tvg-id="710" group-title="LEARNING" tvg-logo="https://telegra.ph/file/c057183f87e34834ba821.png",Nat Geo People CH710
-http://bit.ly/natgeopeople
+http://iptv.tvmalaysia.cc:80/737373/737373/6708
 #EXTINF:-1, tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1  tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", WarnerTV 712
@@ -368,7 +368,7 @@ https://mastrotv.xyz/playlist/usee-egg-mastro-iptv.m3u8|user-agent=com.mastro.tv
 #EXTINF:-1, tvg-id="801"group-title="ASTRO" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena CH801
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1, tvg-id="811"group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/6708
 #EXTINF:-1, tvg-id="812"group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 CH812
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1, tvg-id="813"group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 CH813
