@@ -64,9 +64,9 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png",Suria CH110
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1, tvg-id="112"group-title="ASTRO" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png",Astro Rania CH112
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+http://iptv.tvmalaysia.cc:80/live/932633/932633/6729.ts
 #EXTINF:-1, tvg-id="113"group-title="ASTRO" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png",Astro Aura CH113
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+http://iptv.tvmalaysia.cc:80/live/932633/932633/6713.ts
 #EXTINF:-1, tvg-id="114"group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah CH114
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, tvg-id="116" group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/789ea2e21fef48a488fe4.png",Colors Hindi HD CH116
