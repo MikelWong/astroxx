@@ -1,5 +1,6 @@
 # astroxx
 #EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -287,6 +288,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel 2[Backup]
 http://rv.imax.re:80/7076610784/1167304977/78535
 #EXTINF:-1, tvg-id="615" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f5e9a3d984763b65102ec.png",Cartoon Network CH615
+http://iptv.tvmalaysia.cc:80/737373/737373/6757
 http://zalogitv.tech:8080/mastro-top/2323/1454|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, tvg-id="616" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon CH616
 http://zalogitv.tech:8080/mastro-top/2323/1460|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
