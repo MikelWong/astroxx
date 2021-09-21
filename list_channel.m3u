@@ -1,6 +1,6 @@
 # astroxx
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -47,6 +47,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.
 #EXTINF:-1, tvg-id="103"group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 CH103
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 480p[Backup]
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8
 http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
 #EXTINF:-1, tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",Astro Ria CH104
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
@@ -55,6 +56,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="106"group-title="ASTRO" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis CH106
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="107" tvg-name="ASTRO WARNA HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna CH107
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1, tvg-id="107" tvg-name="ASTRO WARNA HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna Backup
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065892
@@ -65,8 +67,10 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png",Suria CH110
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1, tvg-id="112"group-title="ASTRO" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png",Astro Rania CH112
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745782
 http://iptv.tvmalaysia.cc:80/live/932633/932633/6729.ts
 #EXTINF:-1, tvg-id="113"group-title="ASTRO" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png",Astro Aura CH113
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745783
 http://iptv.tvmalaysia.cc:80/live/932633/932633/6713.ts
 #EXTINF:-1, tvg-id="114"group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah CH114
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -80,6 +84,12 @@ http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1, tvg-id="123"group-title="LIVE TV" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png",Awesome TV CH123
 http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+
+EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="123" group-title="LIVE TV" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
+http://l365.in/manal/manal/400200777
+
 #EXTINF:-1, tvg-id="146"group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c646c77fc8b4f4a532b21.png",TV Okey CH146
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 #EXTINF:-1, tvg-id="147"group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png",NTV7 CH147
@@ -186,6 +196,8 @@ http://rv.imax.re:80/7076610784/1167304977/79755
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="MOVIES",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ceb6af3920a41c9795eca.png",CinemaWorld Indo Sub [Guna VPN]
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1, tvg-id="412" group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
@@ -205,11 +217,17 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX PLUS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
 #EXTINF:-1, tvg-id="413"group-title="MOVIES" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png",FOX Movies CH413
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
 #EXTINF:-1, tvg-id="415"group-title="MOVIES" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png",FOX Action Movies CH415
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
 #EXTINF:-1,  group-title="MOVIES" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png", MY CINEMA
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202513
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/e472a76d6960f90476588.png",FOX Crime (Asia)
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1, tvg-id="416"group-title="MOVIES" tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png",TVN Movies CH416
@@ -307,6 +325,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1, tvg-id="701" tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub CH701
 http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub [Guna VPN]
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745725
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1, tvg-id="701" tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN [Indonesia]
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
@@ -337,7 +356,9 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7080
 #EXTINF:-1, tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1  tvg-id="712" group-title="FAMILY" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", WarnerTV 712
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7072
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 #EXTINF:-1, tvg-id="713" group-title="MOVIES" tvg-logo="https://telegra.ph/file/dd3aeb1d6bc7b25edbafb.png",FX Cinema HD CH713
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
 #EXTINF:-1, tvg-id="714" group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/d3767800abecfd41f4781.png",Crime & Investigation CH714
