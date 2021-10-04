@@ -198,6 +198,8 @@ http://rv.imax.re:80/7076610784/1167304977/79755
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/uar4bNC.png" group-title="MOVIES",HBO Hits HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="MOVIES",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ceb6af3920a41c9795eca.png",CinemaWorld Indo Sub [Guna VPN]
