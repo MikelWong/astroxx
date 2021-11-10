@@ -191,6 +191,7 @@ http://zalogitv.tech:8080/mastro-top/2323/299|user-agent=com.mastro.tv/2.0 (Linu
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1, tvg-id="401" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
+https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37373.ts
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="404"group-title="ASTRO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO CH404
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
