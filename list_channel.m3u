@@ -60,6 +60,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="106"group-title="ASTRO" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis CH106
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="107" tvg-name="ASTRO WARNA HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna CH107
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1, tvg-id="107" tvg-name="ASTRO WARNA HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna Backup
