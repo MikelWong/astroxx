@@ -410,6 +410,7 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1, tvg-id="801"group-title="ASTRO" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena CH801[backup]
 http://iptv.tvmalaysia.cc:80/737373/737373/6707
 #EXTINF:-1, tvg-id="811"group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
+https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37332.ts
 http://iptv.tvmalaysia.cc:80/737373/737373/6708
 #EXTINF:-1, tvg-id="812"group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 CH812
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
